@@ -1,0 +1,3 @@
+SIGNAL_NAME = 'Name'
+SIGNAL_ID = 'SigId'
+SIGNAL_VALUE = 'Value'
